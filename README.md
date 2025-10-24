@@ -1,1 +1,1 @@
-# studentmanager-master
+# studentmanager
